@@ -1,0 +1,23 @@
+#left h2 {
+	float:left;
+	margin-left: 20px;
+}
+#right h2 {
+	float: right;
+	margin-right: 20px;
+}
+tr {
+	height: 150px;
+}
+#board {
+	display: none;
+	cursor: pointer;
+}
+.turn {
+	background-color: grey;
+}
+svg {
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 15px;
+}
