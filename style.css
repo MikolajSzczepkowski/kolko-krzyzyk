@@ -11,10 +11,17 @@ tr {
 }
 #board {
 	display: none;
+}
+.click{
 	cursor: pointer;
 }
 .turn {
 	background-color: grey;
+}
+.continer h2 {
+	margin-left: auto;
+	margin-right: auto;
+	color: red;
 }
 svg {
 	position: absolute;
